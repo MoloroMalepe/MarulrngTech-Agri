@@ -228,6 +228,19 @@ const App = () => {
           </div>
         </div>
       </section>{" "}
+      <section className="py-12 bg-sky-100 border-y border-sky-200">
+        <div className="max-w-4xl mx-auto px-6 text-center">
+          <h4 className="text-emerald-900 font-bold uppercase tracking-widest mb-4">
+            The Developer's Corner
+          </h4>
+          <div className="bg-white p-6 rounded-2xl shadow-inner italic text-slate-700">
+            "Just like farming requires the right soil, coding requires the
+            right tools. When you buy our **Mopani Power-Snack** or **Maruleng
+            Gold**, you are helping us buy data and equipment for the youth in
+            our village who have never touched a computer."
+          </div>
+        </div>
+      </section>
       {/* Footer */}
       <footer className="bg-slate-950 text-slate-400 py-16 px-6">
         <div className="max-w-6xl mx-auto flex flex-col md:flex-row justify-between items-center gap-8">
