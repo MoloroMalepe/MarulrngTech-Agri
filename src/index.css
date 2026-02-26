@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+/* Keep your smooth scroll below it */
+html { 
+  scroll-behavior: smooth; 
+}
