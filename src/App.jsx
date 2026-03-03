@@ -10,7 +10,7 @@ import {
 } from "lucide-react";
 
 const App = () => {
-  const companyName = "Maruleng Tech & Agri (Pty) Ltd";
+  const companyName = "Dreamweaver Solutions (Pty) Ltd";
   const whatsappNumber = "27763879307"; // Replace with yours
   const email = "thehornedone9@gmail.com";
 
@@ -149,7 +149,7 @@ const App = () => {
                   I made a promise to finish what I started in Gauteng. After
                   specializing in Software Development and building skills in
                   Systems Support and Entrepreneurship, I founded{" "}
-                  <strong>Maruleng Tech & Agri (Pty) Ltd</strong> to ensure no
+                  <strong>Dreamweaver Solutions (Pty) Ltd</strong> to ensure no
                   child in my village has to wait until university to learn what
                   a mouse is.
                 </p>
@@ -334,7 +334,7 @@ const App = () => {
             <p>Hoedspruit, Limpopo</p>
             <p>Johannesburg, Gauteng</p>
             <p className="mt-4 text-[10px] uppercase tracking-widest font-bold">
-              © 2026 Maruleng Tech & Agri
+              © 2026 Dreamweaver Solutions
             </p>
           </div>
         </div>
