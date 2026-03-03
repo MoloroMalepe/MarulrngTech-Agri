@@ -57,12 +57,12 @@ const App = () => {
         <div className="absolute top-20 right-[-5%] w-96 h-96 bg-yellow-200/40 rounded-full blur-3xl" />
         <div className="max-w-6xl mx-auto relative z-10 text-center md:text-left">
           <div className="inline-block bg-sky-100 text-sky-700 px-4 py-1 rounded-full text-xs font-bold mb-6 uppercase tracking-widest">
-            From the Olifants River to the Digital World
+            Weaving Technology into our Heritage
           </div>
           <h1 className="text-6xl md:text-8xl font-black text-slate-900 leading-[0.9] mb-8">
-            Rooted in <span className="text-emerald-700">Heritage</span>,<br />
-            Driven by{" "}
-            <span className="text-sky-600 font-mono">Innovation.</span>
+            Weaving the <span className="text-emerald-700">Future</span>,<br />
+            Preserving the{" "}
+            <span className="text-sky-600 font-mono">Roots.</span>
           </h1>
           <p className="max-w-2xl text-lg text-slate-600 leading-relaxed mb-10">
             We are bridging the gap in Maruleng. Providing world-class IT
@@ -336,6 +336,29 @@ const App = () => {
             <p className="mt-4 text-[10px] uppercase tracking-widest font-bold">
               © 2026 Dreamweaver Solutions
             </p>
+          </div>
+          <div className="flex gap-6 mt-6 justify-center md:justify-start">
+            <a
+              href="https://youtube.com/@yourchannel"
+              target="_blank"
+              className="hover:text-red-500 transition"
+            >
+              YouTube
+            </a>
+            <a
+              href="https://facebook.com/yourpage"
+              target="_blank"
+              className="hover:text-blue-600 transition"
+            >
+              Facebook
+            </a>
+            <a
+              href="https://instagram.com/yourhandle"
+              target="_blank"
+              className="hover:text-pink-500 transition"
+            >
+              Instagram
+            </a>
           </div>
         </div>
       </footer>
