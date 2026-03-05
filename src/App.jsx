@@ -64,11 +64,11 @@ const App = () => {
             Preserving the{" "}
             <span className="text-sky-600 font-mono">Roots.</span>
           </h1>
-          <p className="max-w-2xl text-lg text-slate-600 leading-relaxed mb-10">
-            We are bridging the gap in Maruleng. We provide world-class ICT
-            training and AI education while actively revitalizing our local
-            poultry infrastructure to create sustainable jobs and ensure our
-            community's assets are fully utilized.
+          <p className="text-slate-600 text-sm leading-relaxed">
+            We are dedicated to reviving dormant community poultry
+            infrastructure. By combining traditional farming with modern
+            management tech, we aim to restore food security and create
+            sustainable jobs in Maruleng.
           </p>
           <div className="flex flex-col md:flex-row gap-4">
             <button
