@@ -65,10 +65,10 @@ const App = () => {
             <span className="text-sky-600 font-mono">Roots.</span>
           </h1>
           <p className="max-w-2xl text-lg text-slate-600 leading-relaxed mb-10">
-            We are bridging the gap in Maruleng. Providing world-class IT
-            training, AI education, and organic local heritage products—all
-            while revitalizing the community poultry and marula projects founded
-            by our ancestors.
+            We are bridging the gap in Maruleng. We provide world-class ICT
+            training and AI education while actively revitalizing our local
+            poultry infrastructure to create sustainable jobs and ensure our
+            community's assets are fully utilized.
           </p>
           <div className="flex flex-col md:flex-row gap-4">
             <button
