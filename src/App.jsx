@@ -135,10 +135,10 @@ const App = () => {
               </h3>
               <div className="space-y-4 text-slate-600 leading-relaxed text-lg">
                 <p>
-                  In 2017, I arrived at tertiary after Matric. While the world
-                  was talking about 4IR, I was holding a computer mouse for the
-                  very first time. I didn't know how to register my modules
-                  because the IT world was a mystery to me.
+                  "As a young woman entering the IT world in 2017 without prior
+                  exposure, I had to work twice as hard to bridge the gap.
+                  Today, I am weaving that experience into a solution for my
+                  home village."
                 </p>
                 <p className="bg-slate-50 p-6 rounded-2xl border-l-4 border-yellow-400 italic">
                   "I remember the frustration of curiosity meeting a lack of
@@ -339,7 +339,7 @@ const App = () => {
           </div>
           <div className="flex gap-6 mt-6 justify-center md:justify-start">
             <a
-              href="https://youtube.com/@yourchannel"
+              href="https://youtube.com/@yDreamweaverSolutionsSA"
               target="_blank"
               className="hover:text-red-500 transition"
             >
